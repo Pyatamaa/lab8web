@@ -11,3 +11,5 @@
 <img width="735" alt="Screenshot 2023-05-28 113906" src="https://github.com/Pyatamaa/lab8web/assets/92738041/9a1422cd-171b-48fb-be58-0ae717d686e1">
 
 <img width="919" alt="Screenshot 2023-05-28 114335" src="https://github.com/Pyatamaa/lab8web/assets/92738041/2f7cb703-29ac-41ac-9acc-57984a6d0deb">
+
+<img width="738" alt="Screenshot 2023-05-28 114557" src="https://github.com/Pyatamaa/lab8web/assets/92738041/41c6a94e-dfc0-4b28-900d-42bc18cf8df2">
